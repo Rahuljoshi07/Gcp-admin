@@ -183,22 +183,11 @@ This is a learning project, but suggestions and improvements are welcome! Feel f
 - Add new features or scripts
 - Improve documentation
 
-## Author
-**Your Name**  
-Aspiring Cloud/System Administrator  
-[LinkedIn](your-linkedin) | [GitHub](your-github) | [Email](your-email)
-
 ## Acknowledgments
 - Linux community and documentation
 - AWS and GCP documentation
 - Open source tools and projects
 - System administration best practices guides
-
-## Date
-Created: January 2026  
-Last Updated: January 2026
-
+  
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
